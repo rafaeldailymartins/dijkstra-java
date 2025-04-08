@@ -6,7 +6,7 @@ Este foi um trabalho que fiz durante minha graduação em Engenharia de Computa�
 
 ## 🚀 Como rodar
 
-Para executar o programa no windows, você pode simplesmente rodar o arquivo `Algoritmo Dijkstra.exe`
+Para executar o programa no Windows, você pode simplesmente rodar o arquivo `Algoritmo Dijkstra.exe`
 
 ## 👨‍💻 Autor
 
